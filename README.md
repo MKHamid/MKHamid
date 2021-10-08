@@ -1,20 +1,33 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Kaucher+Hamid+Chowdhury;Nice+to+meet+you!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
+<hr>
+
+<br>
+  
+  <p align="center">
+  Hi, I'm Kaucher Hamid Chowdhury.
+  <br>
+  <br>
+  🔬 I'm an undergraduate student in Computer Science from Bangladesh.
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning <strong>JAVA</strong>
+  <br>
+  📫 How to reach me: <a href="mailto: mahkaucher@gmail.com@">mahkaucher@gmail.com</a>
+</p>
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Kaucher+Hamid+Chowdhury;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<hr>
+<h2 align="center">🔥 Languages & Tools: 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="https://github.com/MKHamid/images/blob/main/c.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/MKHamid/images/blob/main/cpp.svg"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/MKHamid/images/blob/main/html5.svg"></code>
+</p>
+<hr>
 
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MKHamid&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKHamid&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
