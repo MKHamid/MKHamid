@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-  <p align="justify">
+  <p align="center">
    Hi, I'm Kaucher Hamid Chowdhury.
   <br>
   <br>
