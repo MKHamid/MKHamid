@@ -10,11 +10,14 @@
   <br>
   💻 I love writing code and learn anythings about it.
   <br>
-  📚 I’m currently learning <strong>JAVA</strong>.
+  📚 I’m currently learning <strong>DART & Flutter</strong>.
   <br>
   👨🏻‍💻 Most of my projects are available on <a href="https://github.com/MKHamid?tab=repositories">Github</a>.
   <br>
-  📫 How to reach me: <a href="mailto: mahkaucher@gmail.com@">mahkaucher@gmail.com</a>.
+  📫 How to reach me:
+    <a href="mailto: mahkaucher@gmail.com@">mahkaucher@gmail.com</a>.
+    <br>
+     <a href= "https://www.linkedin.com/in/md-kaucher-hamid-chowdhury-820169218/ ">LiknedIn</a>
 </p>
 
 
